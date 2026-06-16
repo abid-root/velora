@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 260" role="img" aria-labelledby="title desc">
+<title id="title">Velora Sourcing International Logo</title>
+<desc id="desc">Abstract fabric and globe emblem with Velora Sourcing International wordmark.</desc>
+<defs><style>.c{fill:#151615}.b{fill:#9a7a49}.n{fill:none;stroke:#9a7a49;stroke-width:7;stroke-linecap:round}.s{fill:none;stroke:#f7f1e7;stroke-width:7;stroke-linecap:round}</style></defs>
+<g transform="translate(35 20)">
+<g transform="translate(0 0)">
+<path class="n" d="M120 20a72 72 0 0 1 0 144a72 72 0 0 1 0-144Z"/><path class="n" d="M120 20c-28 38-28 106 0 144M120 20c28 38 28 106 0 144M55 70h130M55 116h130"/>
+<path class="c" d="M22 44c55 18 92 54 115 107c-31-20-70-27-116-20c26 26 40 57 44 92C20 161-5 98 22 44Z"/>
+<path class="s" d="M44 64c28 50 62 78 102 85M54 153c31 4 54 24 70 61"/>
+<path class="b" d="M204 44c-55 18-92 54-115 107c31-20 70-27 116-20c-26 26-40 57-44 92c45-62 70-125 43-179Z"/>
+<path class="s" d="M182 64c-28 50-62 78-102 85"/>
+</g>
+<text x="260" y="105" font-family="Didot, Bodoni 72, Georgia, serif" font-size="76" letter-spacing="20" fill="#151615">VELORA</text>
+<text x="265" y="164" font-family="Inter, Avenir, Arial, sans-serif" font-size="18" letter-spacing="14" fill="#9a7a49">SOURCING INTERNATIONAL</text>
+</g>
+</svg>
